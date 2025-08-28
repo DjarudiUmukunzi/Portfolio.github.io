@@ -1,2 +1,7 @@
-# Portfolio.github.io
-djarudi1994.github.io/portfolio
+# Data Scientist
+
+#Education 
+
+# Work Experience
+
+# Project
