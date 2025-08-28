@@ -1,6 +1,6 @@
 # Data Scientist
 
-#Education 
+# Education 
 
 # Work Experience
 
