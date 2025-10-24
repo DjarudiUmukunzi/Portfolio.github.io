@@ -8,6 +8,8 @@ You can find my professional certifications and key projects below.
 
 ## 🎓 Education
 
+- **University of New Hampshire (Junior):** Majoring in Analytics and Data Science.
+
 - **Applied Computing:** Problem-solving, data analysis, and Python programming with real-world applications, emphasizing algorithm design and implementation.
 - **Calculus I & II:** Single-variable calculus covering limits, derivatives, applications, integration techniques, polar coordinates, and series.
 - **System Fundamentals:** Operating systems, parallel and distributed systems, computer networks, and architecture fundamentals.
