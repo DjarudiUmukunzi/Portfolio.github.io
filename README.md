@@ -27,12 +27,6 @@ You can find my professional certifications and key projects below.
 
 ## 🚀 Projects
 
-#### [Final Project for Introduction to Data Analytics](https://github.com/DjarudiUmukunzi/final-project-intro-data-analytics)
-- **Problem:** Analyzing the Sales Price of Houses in Ames, Iowa to explore data and perform data understanding.
-- **Skills:** Exploratory Data Analysis, Handling missing data, outlier detection and removal, scaling and normalization, and splitting data.
-- **Tools:** Python (Pandas, Matplotlib, Scikit-learn), Jupyter Notebooks
-- **Date:** April 2023
-
 #### [Finlake Fraud Detection](https://github.com/DjarudiUmukunzi/finlake-fraud-detection)
 - **Problem:** Detecting fraudulent transactions in a simulated financial dataset.
 - **Skills:** Feature engineering, anomaly detection, supervised learning.
