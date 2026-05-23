@@ -1,14 +1,14 @@
-# Data Scientist, Data Analyst, Data Engineer
+# Data Scientist, AI & ML Engineer, Data Engineer
 
 ### Hi, I'm Djarudi! 👋
 
-A Data Scientist with a strong foundation in data analysis, machine learning, and algorithm design. I'm passionate about building data-driven solutions and have experience with Python, SQL, and cloud platforms like Azure and Databricks.
+Data Scientist & Engineer passionate about building intelligent, data-driven solutions — spanning AI agents, machine learning models, geomagnetic research, government AI applications, and scalable data pipelines using Python, Azure, Databricks, and Claude AI.
 
 You can find my professional certifications and key projects below.
 
 ## 🎓 Education
 
-- **University of New Hampshire (Junior):** Majoring in Analytics and Data Science.
+- **University of New Hampshire (Senior):** Majoring in Analytics and Data Science.
 
 - **Applied Computing:** Problem-solving, data analysis, and Python programming with real-world applications, emphasizing algorithm design and implementation.
 - **Calculus I & II:** Single-variable calculus covering limits, derivatives, applications, integration techniques, polar coordinates, and series.
@@ -26,6 +26,12 @@ You can find my professional certifications and key projects below.
 - **Oracle Certified:** Oracle Cloud Infrastructure 2025 certified Data Professional.
 
 ## 🚀 Projects
+
+### [ArXiv RAG Agent](https://github.com/DjarudiUmukunzi/ArXiv-RAG-Agent#arxiv-rag-agent)
+
+- **Problem:** Building a Retrieval-Augmented Generation system to answer questions over AI research papers from arXiv.
+- **Skills:** Semantic chunking, vector search, LLM integration, evaluation & benchmarking.
+- **Tools:** Python, Hugging Face Transformers, ChromaDB, Sentence-Transformers, Streamlit
 
 #### [Finlake Fraud Detection](https://github.com/DjarudiUmukunzi/finlake-fraud-detection)
 - **Problem:** Detecting fraudulent transactions in a simulated financial dataset.
