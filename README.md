@@ -27,6 +27,11 @@ You can find my professional certifications and key projects below.
 
 ## 🚀 Projects
 
+### [Geomagnetic-Storm-Prediction](https://github.com/DjarudiUmukunzi/Geomagnetic-Storm-Prediction-)
+- **Problem:** Predicting geomagnetic storm intensity (dBHt) and threshold crossings using solar wind and ground magnetometer data
+- **Skills:** Time-series forecasting, feature engineering, sequence modeling (Transformers, Informer, PatchTST), classification & regression evaluation.
+- **Tools:** Python, PyTorch, scikit-learn, XGBoost/LightGBM/CatBoost, pandas, Google Colab.
+
 ### [ArXiv RAG Agent](https://github.com/DjarudiUmukunzi/ArXiv-RAG-Agent#arxiv-rag-agent)
 
 - **Problem:** Building a Retrieval-Augmented Generation system to answer questions over AI research papers from arXiv.
