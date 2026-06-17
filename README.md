@@ -27,7 +27,7 @@ You can find my professional certifications and key projects below.
 
 ## 🚀 Projects
 
-### [Geomagnetic-Storm-Prediction](https://github.com/DjarudiUmukunzi/Geomagnetic-Storm-Prediction-)
+### [Geomagnetic-Storm-Prediction](https://github.com/DjarudiUmukunzi/Geomagnetic-Storm-Prediction-) In Progress
 - **Problem:** Predicting geomagnetic storm intensity (dBHt) and threshold crossings using solar wind and ground magnetometer data
 - **Skills:** Time-series forecasting, feature engineering, sequence modeling (Transformers, Informer, PatchTST), classification & regression evaluation.
 - **Tools:** Python, PyTorch, scikit-learn, XGBoost/LightGBM/CatBoost, pandas, Google Colab.
