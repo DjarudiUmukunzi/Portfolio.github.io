@@ -32,6 +32,11 @@ You can find my professional certifications and key projects below.
 - **Skills:** Time-series forecasting, feature engineering, sequence modeling (Transformers, Informer, PatchTST), classification & regression evaluation.
 - **Tools:** Python, PyTorch, scikit-learn, XGBoost/LightGBM/CatBoost, pandas, Google Colab.
 
+### [Vehicle Speed Estimation from Road Camera Footage](https://github.com/DjarudiUmukunzi/Vehicle-Speed-Estimation-from-Road-Camera-Footage)
+- **Problem:** Building a real-time vehicle speed estimation system from fixed road camera footage, targeting ±5 km/h accuracy without specialised hardware.
+- **Skills:** Object detection, multi-object tracking, perspective calibration, homography, speed estimation, computer vision pipeline design, evaluation & benchmarking.
+- **Tools:** Python, YOLOv8, ByteTrack, OpenCV, Streamlit, ChromaDB, NumPy, supervision
+
 ### [ArXiv RAG Agent](https://github.com/DjarudiUmukunzi/ArXiv-RAG-Agent#arxiv-rag-agent)
 
 - **Problem:** Building a Retrieval-Augmented Generation system to answer questions over AI research papers from arXiv.
